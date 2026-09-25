@@ -387,4 +387,5 @@ export const nodes = [
   { id: "cinder-386", room: "Kitchen 385", interval: 240 },
   { id: "cinder-387", room: "Lobby 386", interval: 300 },
   { id: "cinder-388", room: "Lab bench 387", interval: 120 },
+  { id: "cinder-389", room: "Loading dock 388", interval: 180 },
 ];
