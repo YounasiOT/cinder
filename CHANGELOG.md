@@ -9,3 +9,4 @@
 - 2026-11-24 09:46 — Tighten validation messages
 - 2026-11-24 10:51 — Align card padding
 - 2026-11-24 12:10 — Review the latest screen changes
+- 2026-11-24 14:20 — Clarify form helper text
