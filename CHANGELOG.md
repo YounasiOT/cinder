@@ -6,3 +6,4 @@
 - 2026-11-19 17:55 — Clarify form helper text
 - 2026-11-20 15:39 — Tighten validation messages
 - 2026-11-23 10:27 — Simplify the header wording
+- 2026-11-24 09:46 — Tighten validation messages
