@@ -10,3 +10,4 @@
 - 2026-11-24 10:51 — Align card padding
 - 2026-11-24 12:10 — Review the latest screen changes
 - 2026-11-24 14:20 — Clarify form helper text
+- 2026-11-25 16:29 — Refine the main screen copy
